@@ -9,6 +9,7 @@ const funSample1 = (name: string): number | string => {
 };
 console.log(funSample1("passenger"));
 
+
 //return number
 const add = (num: number, num1: number): number => {
   return num + num1;

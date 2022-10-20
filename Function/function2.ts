@@ -33,12 +33,10 @@ function funcSample(Todo: number) {
   //  }
 }
 console.log(funcSample(23));
-
 //default function
 
 const defaultFunc = (name: string = "stranger") => {
   console.log(name);
   return `hello ${name}`;
 };
-
 console.log(defaultFunc("phal"));
