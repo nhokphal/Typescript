@@ -1,0 +1,6 @@
+installation for typescript
+
+1.  npm install typescript --save-dev
+// control + r , search previous command 
+2./npx create-react-app my-app --template typescript
+3./npm i @types/styled-components

@@ -1,6 +1,2 @@
 // console.log({ab} === {ab});
 
-const a = 10;
-const b = 10;
-
-console.log(a === b);
